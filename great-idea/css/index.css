@@ -91,7 +91,7 @@ nav a {
 	margin: 5%;
 	display: flex;
 	text-align: center;
-	justify-content: space-evenly
+	justify-content: space-evenly;
 }
 
 .header-h1 {
@@ -124,7 +124,7 @@ nav a {
 
 
 .feature, .about, .services, .product, .vision, .top-content-services {
-    flex-wrap: wrap
+    flex-wrap: wrap;
 }
 
 .section-content {
@@ -160,11 +160,11 @@ nav a {
 }
 
 .bottom-content {
-	display: flex
+	display: flex;
 }
 
 .facts { 
-	margin-right: 25%
+	margin-right: 25%;
 }
 
 ul {
