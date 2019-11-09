@@ -87,7 +87,7 @@ nav a {
 }
 
 /* HEADER */
-.header-img {
+.header-img-statement {
 	margin: 5%;
 	display: flex;
 	text-align: center;
@@ -98,13 +98,13 @@ nav a {
 	font-size: 60px;
 }
 
-.header-par {
+.header-p {
 	border: 1px solid black;
 	display: inline-block;
 	padding: 4%;
 	width: 50%;
 }
-.img1 {
+.header-img {
 	width: 40%;
 	margin-left: 35%;
 }
@@ -177,7 +177,8 @@ footer {
 	height: 20%
 }
 
-.copyright {
+.services-copyright {
 	padding-top: 5%;
-	text-align: center;
 }
+
+
